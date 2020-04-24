@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StateCityApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_state_add">StateAddActivity</string>
+    <string name="btn1">ADD</string>
+    <string name="title_activity_state_city_selection">StateCitySelectionActivity</string>
+    <string name="btn2">add state</string>
+    <string name="btn3">Add city</string>
+    <string name="btn4">select state</string>
+    <string name="title_activity_city_add">CityAddActivity</string>
+    <string name="btn5">Main Menu</string>
+    <string name="btn6">Main Menu</string>
+    <string name="btn7">BACK</string>
+    <string name="title_activity_display_city">DisplayCityActivity</string>
+    <string name="btn8">GO TO STATE SELECTION</string>
+    <string name="btn9">show city</string>
+
+</resources>
